@@ -1,3 +1,6 @@
+
+// For full API documentation, including code examples, visit https://wix.to/94BuAAs
+
 export function fetcher(){
     return({
    user:[
